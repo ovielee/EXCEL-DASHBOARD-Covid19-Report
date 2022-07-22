@@ -5,7 +5,10 @@
 To analyze the COVID19 data from Jan 2020 to  Date
 
 ...
-# Data Sourcing
+# Data Source
+Data were from a web service into excel, the data upload realtime as the root file are updated
+
+https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series
 
 
 ...
