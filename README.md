@@ -2,7 +2,7 @@
 
 ...
 # Project Objective
-
+To analyze the COVID19 data from Jan 2020 to  Date
 
 ...
 # Data Sourcing
