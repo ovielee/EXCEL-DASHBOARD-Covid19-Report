@@ -13,9 +13,12 @@ https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_c
 
 ...
 # Data transformation
-
+Data Validation and Transformation were caried out to ensure the accuracy and quality of data. Several checks were carried out to ensure the data follow logical consistency 
 
 ...
 # Findings and Recomendation
 ![](Top5&TopBottom.jpg)
 ![](Commulative.jpg)
+
+United States has the highest prevalence(confirmed cases) of COVID19 Infection  with over 29million cases
+North Korea has the lowest prevalence(confirmed cases) of COVID19 Infection  with only 52 cases over the period
